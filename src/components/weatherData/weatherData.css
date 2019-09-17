@@ -1,0 +1,9 @@
+.weatherdata {
+    border: 2px dashed #7d357d;
+    padding: 10px;
+    text-align: left;
+}
+
+.weatherdata > div {
+    padding: 3px 0;
+}
